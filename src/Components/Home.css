@@ -1,3 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap");
+.outer {
+  width: 100%;
+  height: 93vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .home {
   display: flex;
   width: 100%;
@@ -10,6 +18,7 @@
   height: 50%;
   font-size: 25px;
   margin-top: 100px;
+  font-family: "Montserrat", sans-serif;
 }
 .para {
   flex: 1;
@@ -45,4 +54,5 @@ button {
 button:hover {
   color: black;
   background-color: white;
+  border-color: #e739f3;
 }
