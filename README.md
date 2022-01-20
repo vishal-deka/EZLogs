@@ -4,7 +4,7 @@ Researchers can write notes on the papers in a built-in markdown editor and stor
 The app is written in Reactjs.
 
 Following are some screenshots:<br>
-<img src="./ss-view.png" width="600" height="300" /> \
-<img src="./ss-add.png" width="600" height="300" /> \
+<img src="./ss-view.png" width="600" height="300" /> <br><br>
+<img src="./ss-add.png" width="600" height="300" /> <br><br>
 <img src="./ss-main.png" width="600" height="300" /> 
 
