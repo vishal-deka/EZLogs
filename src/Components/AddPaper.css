@@ -1,0 +1,68 @@
+.main {
+  width: 100%;
+  flex: 4;
+}
+.container {
+  display: flex;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.fieldsContainer {
+  flex: 3;
+}
+
+.buttonContainer {
+  flex: 1;
+}
+
+.MDfield {
+  padding: 10px;
+}
+.MDfield > label {
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+.editor {
+  margin-top: 10px;
+}
+.button {
+  margin-top: 45px;
+  width: 180px;
+  height: 40px;
+  background-color: #dd75e5;
+  border-radius: 5px;
+  cursor: pointer;
+  color: black;
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+  border-color: white;
+}
+
+.button:hover {
+  background-color: #bf32db;
+}
+.button:active {
+  background-color: #8e0ba8;
+}
+
+.field {
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  margin-right: 20px;
+}
+
+.field > input {
+  font-size: 16px;
+  height: 30px;
+  width: 600px;
+  padding: 8px;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+.field > label {
+  margin-bottom: 10px;
+  font-size: 14px;
+}
